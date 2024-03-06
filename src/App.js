@@ -19,7 +19,7 @@ function App() {
         description: "Get cozy with a cuppa on misty days! ☕️",
         position: "top",
         status: "info",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -30,7 +30,7 @@ function App() {
           "🌫️ It's a bit hazy out there! Stay indoors and cozy up with a good book!",
         position: "top",
         status: "success",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -41,7 +41,7 @@ function App() {
           "Looks like the skies are veiled in mystery today with a touch of smoke.",
         position: "top",
         status: "warning",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -51,7 +51,7 @@ function App() {
         description: "Wear a mask outdoors! Dust levels are high",
         position: "top",
         status: "warning",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -61,7 +61,7 @@ function App() {
         description: "Peekaboo! Foggy weather calls for mysterious adventures.",
         position: "top",
         status: "warning",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -72,7 +72,7 @@ function App() {
           "Feel the warmth of the desert breeze! Sandstorms may dance on the horizon",
         position: "top",
         status: "warning",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -82,7 +82,7 @@ function App() {
         description: "Alert! Volcanic ash is in the air.",
         position: "top",
         status: "warning",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -92,7 +92,7 @@ function App() {
         description: "Hold onto your hats! It's a squall out there.",
         position: "top",
         status: "warning",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -102,7 +102,7 @@ function App() {
         description: "Hold onto your hats! Tornado on the horizon!",
         position: "top",
         status: "warning",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -112,7 +112,7 @@ function App() {
         description: "Stay cozy on this cloudy day! ☁️",
         position: "top",
         status: "info",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -122,7 +122,7 @@ function App() {
         description: "It's a beautiful day! 🌞",
         position: "top",
         status: "success",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -132,7 +132,7 @@ function App() {
         description: "Winter wonderland alert! ❄️",
         position: "top",
         status: "warning",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -142,7 +142,7 @@ function App() {
         description: "Rainy weather calls for some hot tea! 🍵",
         position: "top",
         status: "info",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -152,7 +152,7 @@ function App() {
         description: "Thunder and lightning make for a dramatic show! ⚡",
         position: "top",
         status: "warning",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
@@ -162,7 +162,7 @@ function App() {
         description: "Perfect weather for a cozy read indoors!",
         position: "top",
         status: "warning",
-        duration: 5000,
+        duration: 9000,
         isClosable: true,
       });
     }
